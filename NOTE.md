@@ -1,11 +1,17 @@
 # In PowerShell:
 ``$env:API = '<API KEY GOES HERE>'``
+
 ``$env:API_SECRET = '<API SECRET KEY GOES HERE>'``
+
 ``$env:ACCESS = '<ACCESS TOKEN GOES HERE>'``
+
 ``$env:ACCESS_SECRET = '<ACCESS SECRET TOKEN GOES HERE>'``
 
 # In Terminal:
 ``export API='<API KEY GOES HERE>'``
+
 ``export API_SECRET='<API SECRET KEY GOES HERE>'``
+
 ``export ACCESS='<ACCESS TOKEN GOES HERE>'``
+
 ``export ACCESS_SECRET='<ACCESS SECRET TOKEN GOES HERE>'``
