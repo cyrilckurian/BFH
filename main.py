@@ -9,6 +9,8 @@ API_KEY = os.getenv("API")
 API_SECRET_KEY = os.getenv("API_SECRET")
 ACCESS_TOKEN = os.getenv("ACCESS")
 ACCESS_TOKEN_SECRET = os.getenv("ACCESS_SECRET")
+#print(API_KEY, API_SECRET_KEY, ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
+
 
 if __name__ == '__main__':
     # Authentication
