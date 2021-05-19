@@ -25,7 +25,7 @@ if __name__ == '__main__':
     # Authentication to the Dashboard
     auth = dash_auth.BasicAuth(
         app,
-        {"USERNAME-GOES-HERE" : "PASSWORD-GOES-HERE" }
+        {"user" : "password" }
     )
 
 
